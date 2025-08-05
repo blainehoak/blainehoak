@@ -1,4 +1,4 @@
-_Hello!_ I am a Ph.D. student in the Department of Computer Sciences at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/). I work in the [MadS&P Laboratory](https://madsp.cs.wisc.edu/) and am advised by [Prof. Patrick McDaniel](http://patrickmcdaniel.org). 
+_Hello!_ I am a Ph.D. candidate in the Department of Computer Sciences at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/). I work in the [MadS&P Laboratory](https://madsp.cs.wisc.edu/) and am advised by [Prof. Patrick McDaniel](http://patrickmcdaniel.org). 
 
 
 My research is centered around evaluating and advancing the trustworthiness of AI/ML systems. I am specifically interested in investigating functional differences between machine learning models and biological systems (e.g., the human visual system), and how these differences play a role in the robustness and resiliency of models. My current work aims to explain and bridge this gap to build safer, better aligned machine learning models.
